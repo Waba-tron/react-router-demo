@@ -1,7 +1,7 @@
 {
   "name": "topix",
   "version": "0.1.0",
-  "homepage": "https://waba-tron.github.io/react-router-demo/",
+  "homepage": "https://waba-tron.github.io/react-router-demo/#/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.2.0",
